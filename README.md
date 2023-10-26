@@ -12,7 +12,7 @@ Data Cleaning - Remove the Unwanted data such as White spaces and perform
 
 Load Data - Load the data to csv and then Load the csv files to Power BI
 
-DashBoard - Analyze the Data make severals measure then create Report by using Bar Charts , Score Cards and pie charts
+DashBoard - Analyze the Data make several measures then create Report by using Bar Charts , Score Cards and pie charts
 
 
 
