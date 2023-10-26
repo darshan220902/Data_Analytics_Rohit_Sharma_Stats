@@ -1,0 +1,52 @@
+,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,Ground,Start Date,Match_id,Match_Type,Opponents_Team
+0,DNB,-,-,-,-,-,-,-,1,Durban,19 Sep 2007,T20I # 40,T20I , England
+1,11*,30,8,1,0,137.50,7,not out,1,Rajkot,14 Nov 2008,ODI # 2774,ODI , England
+2,3,16,13,0,0,23.07,4,caught,1,Indore,17 Nov 2008,ODI # 2777,ODI , England
+3,28,54,41,3,0,68.29,4,caught,2,Kanpur,20 Nov 2008,ODI # 2778,ODI , England
+4,8*,13,10,1,0,80.00,6,not out,2,Cuttack,26 Nov 2008,ODI # 2783,ODI , England
+5,9,7,8,1,0,112.50,2,bowled,2,Lord's,14 Jun 2009,T20I # 109,T20I , England
+6,1,7,3,0,0,33.33,5,stumped,1,Manchester,31 Aug 2011,T20I # 204,T20I , England
+7,0*,1,1,0,0,0.00,5,retired notout,1,Chester-le-Street,3 Sep 2011,ODI # 3186,ODI , England
+8,55*,48,33,5,1,166.66,4,not out,1,Colombo (RPS),23 Sep 2012,T20I # 272,T20I , England
+9,24,28,19,1,1,126.31,5,bowled,1,Wankhede,22 Dec 2012,T20I # 294,T20I , England
+10,83,135,93,11,1,89.24,2,lbw,2,Mohali,23 Jan 2013,ODI # 3327,ODI , England
+11,4,15,9,1,0,44.44,2,caught,1,Dharamsala,27 Jan 2013,ODI # 3329,ODI , England
+12,9,18,14,1,0,64.28,1,bowled,1,Birmingham,23 Jun 2013,ODI # 3377,ODI , England
+13,28,81,61,3,0,45.90,6,caught,2,Southampton,27 Jul 2014,Test # 2132,Test , England
+14,6,39,28,0,0,21.42,6,caught,4,Southampton,27 Jul 2014,Test # 2132,Test , England
+15,52,126,87,4,1,59.77,1,caught,1,Cardiff,27 Aug 2014,ODI # 3517,ODI , England
+16,32,-,30,3,1,106.66,2,caught,2,Manchester,3 Jul 2018,T20I # 684,T20I , England
+17,5,-,9,1,0,55.55,1,caught,1,Cardiff,6 Jul 2018,T20I # 688,T20I , England
+18,100*,-,56,11,5,178.57,1,not out,2,Bristol,8 Jul 2018,T20I # 690,T20I , England
+19,137*,-,114,15,4,120.17,1,not out,2,Nottingham,12 Jul 2018,ODI # 4014,ODI , England
+20,15,-,26,2,0,57.69,1,bowled,2,Lord's,14 Jul 2018,ODI # 4016,ODI , England
+21,2,24,18,0,0,11.11,1,caught,1,Leeds,17 Jul 2018,ODI # 4018,ODI , England
+22,102,152,109,15,0,93.57,2,caught,2,Birmingham,30 Jun 2019,ODI # 4179,ODI , England
+23,6,15,9,1,0,66.66,1,caught,2,Chennai,5 Feb 2021,Test # 2409,Test , England
+24,12,23,20,1,1,60.00,1,bowled,4,Chennai,5 Feb 2021,Test # 2409,Test , England
+25,161,327,231,18,2,69.69,1,caught,1,Chennai,13 Feb 2021,Test # 2411,Test , England
+26,26,91,70,2,1,37.14,1,stumped,3,Chennai,13 Feb 2021,Test # 2411,Test , England
+27,66,208,96,11,0,68.75,1,lbw,2,Ahmedabad,24 Feb 2021,Test # 2412,Test , England
+28,25*,26,25,3,1,100.00,1,not out,4,Ahmedabad,24 Feb 2021,Test # 2412,Test , England
+29,49,235,144,7,0,34.02,2,lbw,2,Ahmedabad,4 Mar 2021,Test # 2414,Test , England
+30,15,22,17,2,0,88.23,1,caught,1,Ahmedabad,16 Mar 2021,T20I # 1133,T20I , England
+31,12,17,12,1,1,100.00,1,caught,1,Ahmedabad,18 Mar 2021,T20I # 1135,T20I , England
+32,64,42,34,4,5,188.23,1,bowled,1,Ahmedabad,20 Mar 2021,T20I # 1138,T20I , England
+33,28,79,42,4,0,66.66,1,caught,1,Pune,23 Mar 2021,ODI # 4281,ODI , England
+34,25,38,25,5,0,100.00,1,caught,1,Pune,26 Mar 2021,ODI # 4283,ODI , England
+35,37,71,37,6,0,100.00,1,bowled,1,Pune,28 Mar 2021,ODI # 4284,ODI , England
+36,36,175,107,6,0,33.64,1,caught,2,Nottingham,4 Aug 2021,Test # 2428,Test , England
+37,12*,-,34,0,0,35.29,2,not out,4,Nottingham,4 Aug 2021,Test # 2428,Test , England
+38,83,185,145,11,1,57.24,1,bowled,1,Lord's,12 Aug 2021,Test # 2429,Test , England
+39,21,60,36,2,1,58.33,2,caught,3,Lord's,12 Aug 2021,Test # 2429,Test , England
+40,19,172,105,1,0,18.09,1,caught,1,Leeds,25 Aug 2021,Test # 2432,Test , England
+41,59,221,156,7,1,37.82,1,lbw,3,Leeds,25 Aug 2021,Test # 2432,Test , England
+42,11,43,27,1,0,40.74,1,caught,1,The Oval,2 Sep 2021,Test # 2433,Test , England
+43,127,353,256,14,1,49.60,1,caught,3,The Oval,2 Sep 2021,Test # 2433,Test , England
+44,24,14,14,5,0,171.42,1,caught,1,Southampton,7 Jul 2022,T20I # 1616,T20I , England
+45,31,26,20,3,2,155.00,1,caught,1,Birmingham,9 Jul 2022,T20I # 1628,T20I , England
+46,11,26,12,2,0,91.66,1,caught,2,Nottingham,10 Jul 2022,T20I # 1631,T20I , England
+47,76*,79,58,7,5,131.03,1,not out,2,The Oval,12 Jul 2022,ODI # 4424,ODI , England
+48,0,12,10,0,0,0.00,1,lbw,2,Lord's,14 Jul 2022,ODI # 4428,ODI , England
+49,17,22,17,4,0,100.00,1,caught,2,Manchester,17 Jul 2022,ODI # 4433,ODI , England
+50,27,37,28,4,0,96.42,2,caught,1,Adelaide,10 Nov 2022,T20I # 1878,T20I , England
